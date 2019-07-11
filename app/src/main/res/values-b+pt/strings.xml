@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_config">config</string>
+    <string name="configurar">CONFIGURAR</string>
+    <string name="sair">SAIR</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="usuario">Usuário</string>
+    <string name="digite_o_usuario">Digite o usuário</string>
+    <string name="senha">Senha</string>
+    <string name="digite_a_senha">Digite a senha</string>
+    <string name="novo_usuario">Novo usuário</string>
+    <string name="nova">Nova senha</string>
+    <string name="confirmar_a_senha">Confirme a senha</string>
+    <string name="confirmar">CONFIRMAR</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Atividade1</string>
+    <string name="title_activity_home">home</string>
+    <string name="title_activity_config">config</string>
+    <string name="configurar">CONFIGURE</string>
+    <string name="sair">EXIT</string>
+    <string name="entrar">LOGIN</string>
+    <string name="cancelar">CANCEL</string>
+    <string name="usuario">User</string>
+    <string name="digite_o_usuario">Type your user</string>
+    <string name="senha">Password</string>
+    <string name="digite_a_senha">Type your password</string>
+    <string name="novo_usuario">New user</string>
+    <string name="nova">New password</string>
+    <string name="confirmar_a_senha">Confirm your password</string>
+    <string name="confirmar">CONFIRM</string>
+</resources>
