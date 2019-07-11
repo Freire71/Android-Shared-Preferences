@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
                 });
 
             } else {
+                inputSenha.setText("");
                 tentativas += 1;
                 editor.putInt("tentativas", tentativas).apply();
                 Toast.makeText(this,"Usuário ou senha incorretos!", Toast.LENGTH_SHORT).show();
@@ -82,7 +83,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void cancelar(View view) {
-
+        inputUsuario.setText("");
+        inputSenha.setText("");
     }
 
 }
